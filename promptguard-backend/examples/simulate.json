@@ -1,0 +1,9 @@
+{
+  "scenario_id": "T2",
+  "defenses": {
+    "separate_instructions": true,
+    "least_privilege": true,
+    "validate_schema_and_budget": true,
+    "require_approval": true
+  }
+}

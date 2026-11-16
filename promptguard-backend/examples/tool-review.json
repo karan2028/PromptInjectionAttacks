@@ -1,0 +1,15 @@
+{
+  "proposal": {
+    "tool": "send_message",
+    "arguments": {
+      "to": "demo@example.invalid",
+      "body": "The meeting is canceled."
+    }
+  },
+  "defenses": {
+    "separate_instructions": false,
+    "least_privilege": false,
+    "validate_schema_and_budget": true,
+    "require_approval": true
+  }
+}
